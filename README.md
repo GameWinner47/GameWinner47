@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Prateek Singh
+- 👀 I’m like computer/software engineering, playing tennis, and hanging out with freinds.
+- 🌱 I’m currently learning python and java.
+- 📫 You can reach me at prateek.singh06@outlook.com
